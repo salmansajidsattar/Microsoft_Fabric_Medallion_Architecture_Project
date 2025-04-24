@@ -65,22 +65,38 @@ Detailed implementation steps with screenshots are included in this repository:
 
 Screenshots of the entire process are 
 ![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_1.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_2.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_3.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_4.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_5.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_6.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_7.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_8.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_9.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_10.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_11.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_12.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_13.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_14.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_15.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_16.png)
-! [screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_17.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_2.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_3.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_4.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_5.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_6.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_7.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_8.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_9.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_10.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_11.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_12.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_13.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_14.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_15.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_16.png)
+
+![screenshots](https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Screenshort/image_17.png)
 
 
 
