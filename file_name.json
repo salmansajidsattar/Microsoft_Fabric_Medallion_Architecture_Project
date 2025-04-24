@@ -1,0 +1,16 @@
+{
+  "csv_files": [
+    {
+      "name": "Population-country-1950-1999.csv",
+      "url": "https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Data/Population-country-1950-1999.csv"
+    },
+    {
+      "name": "Population-country-2000-2049.csv",
+      "url": "https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Data/Population-country-2000-2049.csv"
+    },
+    {
+      "name": "Population-country-2050-2100.csv",
+      "url": "https://github.com/salmansajidsattar/Microsoft_Fabric_Medallion_Architecture_Project/blob/main/Data/Population-country-2050-2100.csv"
+    }
+  ]
+}
